@@ -16,7 +16,7 @@ The application will allow the user to:
 9. Both the owner and manager have the option of checking the monthly reports of sales.
 10. Manage the blog by adding and/or removing offers, choosing the favourite product of the day, showing what discounts are available etc. (owner)
 11. Check the products purchased by a specific user (only the username is displayed for privacy reasons). (manager)
-12. =Check the list of buyers for a specific product (only the username is displayed for privacy reasons). (manager)
+12. Check the list of buyers for a specific product (only the username is displayed for privacy reasons). (manager)
  
 
 
