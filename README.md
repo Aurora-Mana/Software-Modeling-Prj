@@ -26,7 +26,7 @@ Additionally, the system will include:
 3. Order tracking: The system can provide customers with real-time updates on the status of their orders, including when they have been shipped and estimated delivery dates.
 4. Product comparison: The system can allow customers to compare products side-by-side based on features, price, and other factors.
 5. Store locator: The system can include a store locator feature that shows customers the nearest physical store location based on their location.
-6.       Integration with social media: The system can integrate with social media platforms to allow customers to share their favorite products or promotions with their friends and followers.
+6. Integration with social media: The system can integrate with social media platforms to allow customers to share their favorite products or promotions with their friends and followers.
 7. Integration with chatbots: The system can integrate with chatbots to provide customers with instant support and assistance.
 8. Multiple payment options: The system can support various payment options, including credit cards, debit cards, and digital wallets, to accommodate customers' different preferences.
 9. Referral program: The system can implement a referral program where customers can refer their friends to the store and receive rewards for each successful referral.
