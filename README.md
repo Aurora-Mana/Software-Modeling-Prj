@@ -11,12 +11,13 @@ The application will allow the user to:
 4. Have multiple payment options including credit cards, debit cards, and digital wallets, to accommodate customers' different preferences.
 5. Order in advance products that are at the time out of stock or unavailable for any other reason, otherwise known as a Wishlist. (customer)
 6. The clerk and manager have the option of adding and removing products, however the clerk is expected to be more involved in this role.
-7. Check daily sales. (manager, owner)
-8. Check the list of products displayed on the page, the number of products per category, how many products are currently available. (manager)
-9. Both the owner and manager have the option of checking the monthly reports of sales.
-10. Manage the blog by adding and/or removing offers, choosing the favourite product of the day, showing what discounts are available etc. (owner)
-11. Check the products purchased by a specific user (only the username is displayed for privacy reasons). (manager)
-12. Check the list of buyers for a specific product (only the username is displayed for privacy reasons). (manager)
+7. Confirm order. (clerk)
+8. Check daily sales. (manager, owner)
+9. Check the list of products displayed on the page, the number of products per category, how many products are currently available. (manager)
+10. Both the owner and manager have the option of checking the monthly reports of sales.
+11. Manage the blog by adding and/or removing offers, choosing the favourite product of the day, showing what discounts are available etc. (owner)
+12. Check the products purchased by a specific user (only the username is displayed for privacy reasons). (manager)
+13. Check the list of buyers for a specific product (only the username is displayed for privacy reasons). (manager)
  
 
 
